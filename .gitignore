@@ -1,0 +1,8 @@
+target/
+.build-cache/
+dist/
+MobHideAndSeek-*.jar
+.idea/
+*.iml
+server.local.json
+server/

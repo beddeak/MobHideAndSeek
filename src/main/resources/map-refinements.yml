@@ -1,0 +1,163 @@
+# Reviewed additive cover islands. Absolute coordinates for the five shipped arenas.
+farm:
+  world: world
+  min-x: 256
+  min-z: 0
+  size: 96
+  boxes:
+  - [257, 64, 15, 263, 66, 16, HAY_BLOCK]
+  - [344, 64, 20, 350, 66, 21, HAY_BLOCK]
+  - [271, 64, 1, 272, 66, 7, HAY_BLOCK]
+  - [276, 64, 88, 277, 66, 94, HAY_BLOCK]
+  - [342, 64, 38, 350, 66, 39, HAY_BLOCK]
+  - [289, 64, 1, 290, 66, 9, HAY_BLOCK]
+  - [294, 64, 86, 295, 66, 94, HAY_BLOCK]
+  - [257, 64, 51, 263, 66, 52, HAY_BLOCK]
+  - [344, 64, 56, 350, 66, 57, HAY_BLOCK]
+  - [307, 64, 1, 308, 66, 7, HAY_BLOCK]
+  - [312, 64, 88, 313, 66, 94, HAY_BLOCK]
+  - [257, 64, 69, 265, 66, 70, HAY_BLOCK]
+  - [342, 64, 74, 350, 66, 75, HAY_BLOCK]
+  - [325, 64, 1, 326, 66, 9, HAY_BLOCK]
+  - [330, 64, 86, 331, 66, 94, HAY_BLOCK]
+  - [257, 64, 87, 263, 66, 88, HAY_BLOCK]
+  - [344, 64, 92, 350, 66, 93, HAY_BLOCK]
+  - [343, 64, 1, 344, 66, 7, HAY_BLOCK]
+  - [305, 64, 10, 306, 66, 15, HAY_BLOCK]
+  - [297, 64, 23, 298, 66, 28, HAY_BLOCK]
+  - [297, 64, 49, 298, 66, 54, HAY_BLOCK]
+  - [305, 64, 62, 306, 66, 67, HAY_BLOCK]
+  - [320, 64, 52, 321, 66, 55, HAY_BLOCK]
+  - [296, 64, 60, 299, 66, 61, HAY_BLOCK]
+  - [300, 64, 44, 303, 66, 45, HAY_BLOCK]
+  - [336, 64, 28, 337, 66, 31, HAY_BLOCK]
+  - [276, 64, 32, 277, 66, 35, HAY_BLOCK]
+  - [316, 64, 80, 319, 66, 81, HAY_BLOCK]
+  - [340, 64, 48, 341, 66, 51, HAY_BLOCK]
+  - [300, 64, 40, 303, 66, 41, HAY_BLOCK]
+  - [284, 64, 84, 287, 66, 85, HAY_BLOCK]
+  - [308, 64, 24, 311, 66, 25, HAY_BLOCK]
+  - [316, 64, 32, 317, 66, 35, HAY_BLOCK]
+  - [336, 64, 84, 337, 66, 87, HAY_BLOCK]
+  - [320, 64, 28, 321, 66, 31, HAY_BLOCK]
+  - [276, 64, 52, 277, 66, 55, HAY_BLOCK]
+  - [308, 64, 52, 311, 66, 53, HAY_BLOCK]
+  - [284, 64, 80, 287, 66, 81, HAY_BLOCK]
+  - [324, 64, 56, 327, 66, 57, HAY_BLOCK]
+  - [300, 64, 72, 301, 66, 75, HAY_BLOCK]
+  - [296, 64, 16, 297, 66, 19, HAY_BLOCK]
+  - [336, 64, 56, 337, 66, 59, HAY_BLOCK]
+  - [304, 64, 28, 305, 66, 31, HAY_BLOCK]
+  - [340, 64, 20, 341, 66, 23, HAY_BLOCK]
+  - [304, 64, 52, 305, 66, 55, HAY_BLOCK]
+  - [267, 64, 13, 267, 66, 13, HAY_BLOCK]
+cave:
+  world: world
+  min-x: 512
+  min-z: 0
+  size: 96
+  boxes:
+  - [522, 64, 10, 527, 66, 11, POLISHED_DEEPSLATE]
+  - [548, 64, 10, 553, 66, 11, POLISHED_DEEPSLATE]
+  - [561, 64, 10, 562, 66, 15, POLISHED_DEEPSLATE]
+  - [592, 64, 23, 597, 66, 24, POLISHED_DEEPSLATE]
+  - [561, 64, 36, 562, 66, 41, POLISHED_DEEPSLATE]
+  - [561, 64, 62, 562, 66, 67, POLISHED_DEEPSLATE]
+  - [540, 64, 75, 545, 66, 76, POLISHED_DEEPSLATE]
+  - [579, 64, 75, 580, 66, 80, POLISHED_DEEPSLATE]
+  - [592, 64, 75, 597, 66, 76, POLISHED_DEEPSLATE]
+  - [556, 64, 24, 557, 66, 27, POLISHED_DEEPSLATE]
+  - [536, 64, 84, 539, 66, 85, POLISHED_DEEPSLATE]
+  - [524, 64, 44, 527, 66, 45, POLISHED_DEEPSLATE]
+  - [556, 64, 4, 559, 66, 5, POLISHED_DEEPSLATE]
+  - [580, 64, 84, 583, 66, 85, POLISHED_DEEPSLATE]
+  - [556, 64, 44, 557, 66, 47, POLISHED_DEEPSLATE]
+  - [600, 64, 44, 603, 66, 45, POLISHED_DEEPSLATE]
+  - [556, 64, 64, 557, 66, 67, POLISHED_DEEPSLATE]
+  - [592, 64, 44, 593, 66, 47, POLISHED_DEEPSLATE]
+village:
+  world: world
+  min-x: 768
+  min-z: 0
+  size: 96
+  boxes:
+  - [769, 64, 15, 775, 66, 16, BRICKS]
+  - [783, 64, 1, 784, 66, 7, BRICKS]
+  - [788, 64, 88, 789, 66, 94, BRICKS]
+  - [769, 64, 33, 777, 66, 34, BRICKS]
+  - [854, 64, 38, 862, 66, 39, BRICKS]
+  - [801, 64, 1, 802, 66, 9, BRICKS]
+  - [806, 64, 86, 807, 66, 94, BRICKS]
+  - [769, 64, 51, 775, 66, 52, BRICKS]
+  - [819, 64, 1, 820, 66, 7, BRICKS]
+  - [824, 64, 88, 825, 66, 94, BRICKS]
+  - [769, 64, 69, 777, 66, 70, BRICKS]
+  - [854, 64, 74, 862, 66, 75, BRICKS]
+  - [837, 64, 1, 838, 66, 9, BRICKS]
+  - [842, 64, 86, 843, 66, 94, BRICKS]
+  - [769, 64, 87, 775, 66, 88, BRICKS]
+  - [856, 64, 92, 862, 66, 93, BRICKS]
+  - [855, 64, 1, 856, 66, 7, BRICKS]
+  - [817, 64, 10, 818, 66, 15, BRICKS]
+  - [796, 64, 49, 801, 66, 50, BRICKS]
+  - [817, 64, 62, 818, 66, 67, BRICKS]
+  - [812, 64, 24, 815, 66, 25, BRICKS]
+  - [800, 64, 44, 803, 66, 45, BRICKS]
+  - [808, 64, 68, 809, 66, 71, BRICKS]
+  - [800, 64, 84, 803, 66, 85, BRICKS]
+  - [788, 64, 44, 789, 66, 47, BRICKS]
+  - [812, 64, 28, 813, 66, 31, BRICKS]
+desert:
+  world: mobhide_maps
+  min-x: 120
+  min-z: -40
+  size: 81
+  boxes:
+  - [193, 64, -20, 199, 66, -19, CUT_SANDSTONE]
+  - [140, 64, 33, 141, 66, 39, CUT_SANDSTONE]
+  - [153, 64, -39, 154, 66, -31, CUT_SANDSTONE]
+  - [121, 64, 11, 127, 66, 12, CUT_SANDSTONE]
+  - [193, 64, 16, 199, 66, 17, CUT_SANDSTONE]
+  - [171, 64, -39, 172, 66, -33, CUT_SANDSTONE]
+  - [176, 64, 33, 177, 66, 39, CUT_SANDSTONE]
+  - [191, 64, 34, 199, 66, 35, CUT_SANDSTONE]
+  - [143, 64, -30, 144, 66, -25, CUT_SANDSTONE]
+  - [161, 64, -17, 162, 66, -12, CUT_SANDSTONE]
+  - [143, 64, -4, 144, 66, 1, CUT_SANDSTONE]
+  - [169, 64, -4, 170, 66, 1, CUT_SANDSTONE]
+  - [135, 64, 9, 136, 66, 14, CUT_SANDSTONE]
+  - [161, 64, 9, 162, 66, 14, CUT_SANDSTONE]
+  - [187, 64, 9, 188, 66, 14, CUT_SANDSTONE]
+  - [143, 64, 22, 144, 66, 27, CUT_SANDSTONE]
+  - [156, 64, 22, 161, 66, 23, CUT_SANDSTONE]
+  - [169, 64, 22, 170, 66, 27, CUT_SANDSTONE]
+  - [144, 64, 4, 145, 66, 7, CUT_SANDSTONE]
+snow:
+  world: mobhide_maps
+  min-x: 280
+  min-z: -40
+  size: 81
+  boxes:
+  - [281, 64, -25, 287, 66, -24, SPRUCE_WOOD]
+  - [353, 64, -20, 359, 66, -19, SPRUCE_WOOD]
+  - [295, 64, -39, 296, 66, -33, SPRUCE_WOOD]
+  - [300, 64, 33, 301, 66, 39, SPRUCE_WOOD]
+  - [281, 64, -7, 289, 66, -6, SPRUCE_WOOD]
+  - [351, 64, -2, 359, 66, -1, SPRUCE_WOOD]
+  - [313, 64, -39, 314, 66, -31, SPRUCE_WOOD]
+  - [281, 64, 11, 287, 66, 12, SPRUCE_WOOD]
+  - [353, 64, 16, 359, 66, 17, SPRUCE_WOOD]
+  - [336, 64, 33, 337, 66, 39, SPRUCE_WOOD]
+  - [295, 64, -17, 296, 66, -12, SPRUCE_WOOD]
+  - [308, 64, -17, 313, 66, -16, SPRUCE_WOOD]
+  - [321, 64, -17, 322, 66, -12, SPRUCE_WOOD]
+  - [347, 64, -17, 348, 66, -12, SPRUCE_WOOD]
+  - [303, 64, -4, 304, 66, 1, SPRUCE_WOOD]
+  - [316, 64, -4, 321, 66, -3, SPRUCE_WOOD]
+  - [329, 64, -4, 330, 66, 1, SPRUCE_WOOD]
+  - [342, 64, -4, 347, 66, -3, SPRUCE_WOOD]
+  - [295, 64, 9, 296, 66, 14, SPRUCE_WOOD]
+  - [321, 64, 9, 322, 66, 14, SPRUCE_WOOD]
+  - [347, 64, 9, 348, 66, 14, SPRUCE_WOOD]
+  - [316, 64, 22, 321, 66, 23, SPRUCE_WOOD]
+  - [312, 64, 4, 315, 66, 5, SPRUCE_WOOD]

@@ -1,0 +1,15 @@
+name: MobHideAndSeek
+version: 1.0.0
+main: dev.beddeak.mobhide.MobHidePlugin
+api-version: '1.21'
+description: AI 몹 사이에 숨어 술래를 피하는 몹 숨바꼭질
+depend: [LibsDisguises, packetevents]
+commands:
+  mobhide:
+    description: 몹 숨바꼭질 자동 시작, 혼자 테스트 및 관리
+    aliases: [mh]
+    usage: /mobhide <admin|maps|lobby|mapvisit <ID>|mapsave <ID> <이름>|tauntfx|sandbox|wand|pos1|pos2|expandvert|setarena|spawnheight <최소Y> <최대Y>|start|test [몹|seeker]|stop|disaster [random|tornado|meteor|quake|lightning]|view|taunt|status|top|leave>
+permissions:
+  mobhide.admin:
+    description: 게임 시작, 혼자 테스트, 종료 및 경기장 설정
+    default: op
